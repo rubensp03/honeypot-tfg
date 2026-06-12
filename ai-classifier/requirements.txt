@@ -1,0 +1,7 @@
+# Dependencias del motor de clasificación con IA
+# Instalación: pip install -r requirements.txt
+
+aiohttp>=3.9.0
+pandas>=2.0.0
+requests>=2.31.0
+pyyaml>=6.0.1

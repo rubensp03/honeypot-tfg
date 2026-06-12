@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+*.egg
+
+# Node.js
+node_modules/
+dist/
+dist-ssr/
+
+# Logs & data
+*.log
+*.db
+data.txt
+data_csv/
+outputs/
+logs/
+
+# API keys & secrets
+config/api-deepseek.txt
+*.env
+*.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Backups
+*_backup*
+backups/
+
+# Compiled output
+*.pdf
+diagrams/
+graficas/en/*
+graficas/es/*
+!graficas/en/.gitkeep
+!graficas/es/.gitkeep
+
+# Large data files
+*.pkl
+*.npy
+*.h5
+
+# Nuclei git clone
+random-forests/datasets/nuclei-templates/

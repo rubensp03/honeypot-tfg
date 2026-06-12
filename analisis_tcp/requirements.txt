@@ -1,0 +1,6 @@
+# Dependencias para análisis de tcpdump y generación de blacklists
+# Instalación: pip install -r requirements.txt
+
+pandas>=2.0.0
+matplotlib>=3.8.0
+requests>=2.31.0
